@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/100767697/228517763-f6c0a9b1-3345-4445-9a20-713112e3b6d7.png" alt="Aspiring software developer eager to apply my skills to real-world projects">
-</p>
-
 <h1>⌨️  What I've been working with:</h1>
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
